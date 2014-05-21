@@ -1,6 +1,6 @@
 {
-	"name": "noauth",
-	"version": "0.0.1",
+	"name": "teeleader-noauth",
+	"version": "0.1.0",
 	"description": "Authorization library for OAuth",
 	"keywords": ["oauth", "authorization", "twitter", "facebook", "google", "tumblr", "flickr", "instagram", "vimeo", "vk", "dropbox", "soundcloud", "github"],
 	"author": {
@@ -23,7 +23,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:b2arn/noauth.git"
+		"url": "git@github.com:teeleader/noauth.git"
 	},
 	"directories": {
 		"lib": "./lib"
