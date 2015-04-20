@@ -1,6 +1,6 @@
 {
 	"name": "teeleader-noauth",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Authorization library for OAuth",
 	"keywords": ["oauth", "authorization", "twitter", "facebook", "google", "tumblr", "flickr", "instagram", "vimeo", "vk", "dropbox", "soundcloud", "github"],
 	"author": {
